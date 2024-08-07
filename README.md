@@ -6,7 +6,7 @@ Fue desarrollado con HTML, CSS y JS con el uso de framework de UI, Boostrap util
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto desplegado]()
+[Proyecto desplegado](https://portafoliooficial.netlify.app/)
 
 
 ## Secciones de mi sitio
